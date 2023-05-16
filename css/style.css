@@ -1,0 +1,117 @@
+header {
+    background-color: #3268a8;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f5f9;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #3268a8;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section h2 {
+    margin-bottom: 10px;
+    color: #3268a8;
+  }
+  
+  .section p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  pre {
+    font-family: monospace;
+    font-size: 14px;
+    background-color: #f8cbdc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .video-container {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: inline-block;
+  }
+  
+#inicio { color: pink; 
+          text-align: center; }
+
+
+.quebrar { display: inline-block;
+           margin: 10px;
+           vertical-align: middle; }
+
+.intro { color: black;
+         font-size: 20px;
+         font-family: 'Yanone Kaffeesatz', sans-serif; 
+        text-align: justify }
+
+
+.botao { display: inline-block;
+         padding: 15px 25px;
+         font-size: 24px;
+         cursor: pointer;
+         text-align: center;	
+         text-decoration: none;
+         outline: none;
+         color: #fff;
+         background-color: #41a1be;
+         border: none;
+         border-radius: 15px;
+         box-shadow: 0 9px pink; }
+
+.botao2 {  display: inline-block;
+        padding: 15px 25px;
+        font-size: 20px;
+        cursor: pointer;
+        text-align: center;	
+        text-decoration: none;
+        outline: none;
+        color:  black;
+        background-color: pink;
+        border: none;
+        border-radius: 15px;
+        
+}
+
+#result { color: pink;
+          size: 40px;}
+
+
+table { font-size: 50px; }
